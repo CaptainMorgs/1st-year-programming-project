@@ -1,6 +1,6 @@
 # 1st-year-programming-project
 
-The players can shoot arrows at each other and a score is kept with a winner decided after a time elapses, however originally used ps4 controllers as input and I can't seem to get ds4 tool for windows working.
+Solo project written in C# for unity3d.
 
 Menu:
 
